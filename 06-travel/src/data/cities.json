@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-03T19:33:50.528Z",
+      "notes": "",
+      "position": {
+        "lat": "21.02252396181216",
+        "lng": "105.84534514783667"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Vinh",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-04T05:22:24.302Z",
+      "notes": "",
+      "position": {
+        "lat": "18.66719445818891",
+        "lng": "105.68744606738503"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-04T09:15:20.225Z",
+      "notes": "",
+      "position": {
+        "lat": "21.038013579267066",
+        "lng": "105.78752599122978"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-12-04T09:41:29.825Z",
+      "notes": "",
+      "position": {
+        "lat": "21.03642570608599",
+        "lng": "105.81583913210675"
+      },
+      "id": 73930389
+    }
+  ]
+}
